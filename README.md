@@ -4,7 +4,6 @@
 
 ### Testing Documentation
 - [Checklists](https://github.com/annashorikova/checklists)
-- [Test Cases](https://github.com/annashorikova/test_cases)
 - [Bug Reports](https://github.com/annashorikova/bug_reports)
 
 ### Certificates
