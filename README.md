@@ -1,6 +1,6 @@
 ### My CV
-- [My CV in English](https://drive.google.com/file/d/1OGMOD6iOhR8nuKylcTKwRfZPFYvmhelJ/view?usp=sharing/)
-- [My CV in Russian](https://drive.google.com/file/d/1eYHXoICAxPPDmP1mOZdDbJzTmeWYWfd-/view?usp=sharing/)
+- [My CV in English](https://drive.google.com/file/d/1KgyvcX4hS1YcpNveOnp44FkElrLHhrHT/view?usp=sharing/)
+- [My CV in Russian](https://drive.google.com/file/d/1iOHvWFIHIHfeiis62MCgGO3hDNXCuw-2/view?usp=sharing/)
 
 ### Testing Documentation
 - [Checklists](https://github.com/annashorikova/checklists)
