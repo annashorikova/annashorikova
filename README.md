@@ -1,5 +1,5 @@
 ### My CV
-- [My CV in English](https://drive.google.com/file/d/1KgyvcX4hS1YcpNveOnp44FkElrLHhrHT/view?usp=sharing/)
+- [My CV in English](https://drive.google.com/file/d/1bk5vmEHh8411iCWF3XsZDlO8BTES9t2W/view?usp=sharing/)
 - [My CV in Russian](https://drive.google.com/file/d/1iOHvWFIHIHfeiis62MCgGO3hDNXCuw-2/view?usp=sharing/)
 
 ### Testing Documentation
